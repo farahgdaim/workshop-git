@@ -56,6 +56,6 @@ class ClientController extends Controller
     }
 
     public function Dashboard(){
-        return"Bienvenue Monsieur";
+        return"Bienvenue Monsieur sur notre site e-commerece";
     }
 }
